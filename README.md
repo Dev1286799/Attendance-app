@@ -1,2 +1,3 @@
 # Attendance-app
-This is a attendance, marks, student management app
+This is a attendance, marks, student management app. 
+Author - Devesh
